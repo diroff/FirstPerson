@@ -1,4 +1,4 @@
-#First Person
+# First Person
 A small project developed within the framework of the "Start the Game" competition
 Test it:
 
